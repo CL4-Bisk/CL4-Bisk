@@ -1,12 +1,134 @@
-- 👋 Hi, I’m @CL4-Bisk
-- 👀 I’m interested in gadget parts/hardware
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate for fun
-- 📫 How to reach me: message me (IDK if I reply immediately)
-- 😄 Pronouns: Rather not say
-- ⚡ Fun fact: I'm a human (please no more ReCaptcha)
+# Hi, I’m John Clyde Aparicio
 
-<!---
-CL4-Bisk/CL4-Bisk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science student in the University of the Philippines Visayas building practical software across systems, web, and hardware.
+
+I enjoy working on projects that solve real problems — from low-level systems and embedded development to full-stack applications. I value clean implementation, maintainable code, and building things that are useful.
+
+---
+
+## Areas I Work In
+
+### IT / Technical Support
+Focused on troubleshooting, systems, and technical operations.
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![NASM](https://img.shields.io/badge/NASM-8A2BE2?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+- System troubleshooting and diagnostics  
+- OS setup and maintenance  
+- Hardware/software deployment  
+- Basic networking and configuration  
+- Technical documentation and support workflows  
+
+---
+
+### Software Development
+Focused on core engineering, application logic, and systems thinking.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+- Object-oriented programming  
+- Data structures and algorithms  
+- Backend and desktop application development  
+- Systems-level programming  
+- Performance-conscious problem solving  
+
+---
+
+### Backend Development
+Focused on server-side logic, APIs, databases, and application architecture.
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+- REST API development  
+- Server-side application logic  
+- Authentication and authorization  
+- Database integration and management  
+- Backend architecture and service design  
+
+**Stacks:** FERN (Firebase, Express, React, Node) • SERN (Supabase, Express, React, Node) 
+
+## Featured Projects
+
+### 🚆 Honkai Railroad
+A Honkai Star Rail web-based game made in HTML, CSS, and JavaScript.
+
+### 💣 BOMBASM
+A low-level systems project focused on assembly concepts, machine-level logic, and program behavior.
+
+### 📍 UPDI Ko (under development)
+A practical location-based or campus-oriented utility project designed around accessibility and convenience.
+
+### 🗓️ Horaryo (under development)
+A Java-based scheduling and time management application focused on usability and organization.
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![NASM](https://img.shields.io/badge/NASM-8A2BE2?style=flat-square&logo=assemblyscript&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=flat-square&logo=windows&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CL4-Bisk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CL4-Bisk&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=CL4-Bisk&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+Open to internship opportunities in:
+- IT / Technical Support  
+- Software Development  
+- Backend Development
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CL4-Bisk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparicio-jc/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apariciojohnclyde@gmail.com)
