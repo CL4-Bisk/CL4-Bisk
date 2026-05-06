@@ -1,8 +1,14 @@
 # Hi, I’m John Clyde Aparicio
 
-Computer Science student in the University of the Philippines Visayas building practical software across systems, web, and hardware.
+**Computer Science Student · University of the Philippines Visayas**
+ 
+I build practical software across systems, web, and hardware — from low-level assembly and embedded development to full-stack web applications. I care about clean implementation, maintainable code, and building things that are genuinely useful.
+ 
+Open to internship opportunities in **IT / Technical Support**, **Software Development**, and **Backend Development**.
 
-I enjoy working on projects that solve real problems — from low-level systems and embedded development to full-stack applications. I value clean implementation, maintainable code, and building things that are useful.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CL4-Bisk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparicio-jc/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apariciojohnclyde@gmail.com)
 
 ---
 
@@ -59,20 +65,17 @@ Focused on server-side logic, APIs, databases, and application architecture.
 
 **Stacks:** FERN (Firebase, Express, React, Node) • SERN (Supabase, Express, React, Node) 
 
-## Featured Projects
+---
 
-### 🚆 Honkai Railroad
-A Honkai Star Rail web-based game made in HTML, CSS, and JavaScript.
-
-### 💣 BOMBASM
-A low-level systems project focused on assembly concepts, machine-level logic, and program behavior.
-
-### 📍 UPDI Ko (under development)
-A practical location-based or campus-oriented utility project designed around accessibility and convenience.
-
-### 🗓️ Horaryo (under development)
-A Java-based scheduling and time management application focused on usability and organization.
-
+## Projects
+ 
+| Project | Description | Stack |
+|---|---|---|
+| 🗓️ **Horaryo** *(in progress)* | Scheduling and time management app focused on usability | Java |
+| 📍 **UPDI Ko** *(in progress)* | Campus-oriented utility built around accessibility and convenience | TBD |
+| 🚆 **Honkai Railroad** | Web-based game inspired by Honkai Star Rail | HTML, CSS, JavaScript |
+| 💣 **BOMBASM** | Low-level project exploring machine-level logic and program behavior | NASM Assembly |
+ 
 ---
 
 ## Tech Stack
@@ -120,16 +123,3 @@ A Java-based scheduling and time management application focused on usability and
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CL4-Bisk&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## Contact
-
-Open to internship opportunities in:
-- IT / Technical Support  
-- Software Development  
-- Backend Development
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CL4-Bisk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparicio-jc/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apariciojohnclyde@gmail.com)
