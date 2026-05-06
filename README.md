@@ -12,7 +12,7 @@ Open to internship opportunities in **IT / Technical Support**, **Software Devel
 
 ---
 
-## Areas I Work In
+## Areas I Experience and Work In
 
 ### IT / Technical Support
 Focused on troubleshooting, systems, and technical operations.
@@ -71,10 +71,10 @@ Focused on server-side logic, APIs, databases, and application architecture.
  
 | Project | Description | Stack |
 |---|---|---|
-| 🗓️ **Horaryo** *(in progress)* | Scheduling and time management app focused on usability | Java |
-| 📍 **UPDI Ko** *(in progress)* | Campus-oriented utility built around accessibility and convenience | TBD |
-| 🚆 **Honkai Railroad** | Web-based game inspired by Honkai Star Rail | HTML, CSS, JavaScript |
-| 💣 **BOMBASM** | Low-level project exploring machine-level logic and program behavior | NASM Assembly |
+| 🗓️ [**Horaryo**](https://github.com/FakeThird/horaryo) *(beta)* | Scheduling and time management app focused on usability | Java (Swing GUI) |
+| 📍 [**UPDI Ko**](https://github.com/Adobo-Mappers/UPdiKo) *(in progress)* | Campus-oriented utility built around accessibility and convenience | Supabase, Node.js, React |
+| 🚆 [**TypeWriter Language**](https://github.com/Tsugumi-Collaborations/cmsc124-typewriter-language) | Custom-made basic programming language for non-programmers | Kotlin |
+| 💣 [**BOMBASM**](https://github.com/CL4-Bisk/BOMBASM) | Low-level project exploring machine-level logic and program behavior | Web Assembly (via C) |
  
 ---
 
