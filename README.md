@@ -115,10 +115,10 @@ Focused on server-side logic, APIs, databases, and application architecture.
 
 ## GitHub Stats
 
-<div align="center">
- <img height="165" src="https://github-readme-stats.vercel.app/api?username=CL4-Bisk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CL4-Bisk&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CL4-Bisk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CL4-Bisk&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CL4-Bisk&theme=tokyonight&hide_border=true" />
