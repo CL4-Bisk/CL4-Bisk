@@ -10,6 +10,10 @@ Open to internship opportunities in **IT / Technical Support**, **Software Devel
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparicio-jc/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apariciojohnclyde@gmail.com)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=CL4-Bisk&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="CL4-Bisk profile views" />
+</p>
+
 ---
 
 ## Areas I Experience and Work In
@@ -67,14 +71,27 @@ Focused on server-side logic, APIs, databases, and application architecture.
 
 ---
 
-## Projects
+## Organizations & Collaborations
+
+| Logo | Organization / Group | Role / Involvement | Related Work |
+|---|---|---|---|
+| <img src="https://github.com/CL4-Bisk.png" width="60" height="60" alt="CL4-Bisk logo" /> | [**CL4-Bisk**](https://github.com/CL4-Bisk) | Personal GitHub profile | Personal projects, experiments, coursework |
+| <img src="https://github.com/FakeThird.png" width="60" height="60" alt="FakeThird logo" /> | [**FakeThird**](https://github.com/FakeThird) | Collaborator | [Horaryo](https://github.com/FakeThird/horaryo) |
+| <img src="https://github.com/Adobo-Mappers.png" width="60" height="60" alt="Adobo-Mappers logo" /> | [**Adobo-Mappers**](https://github.com/Adobo-Mappers) | Collaborator | [UPdi Ko!](https://github.com/Adobo-Mappers/UPdiKo) |
+| <img src="https://github.com/Tsugumi-Collaborations.png" width="60" height="60" alt="Tsugumi-Collaborations logo" /> | [**Tsugumi-Collaborations**](https://github.com/Tsugumi-Collaborations) | Collaborator | [TypeWriter Language](https://github.com/Tsugumi-Collaborations/cmsc124-typewriter-language) |
+| <img src="https://github.com/TwoBit-Forge.png" width="60" height="60" alt="TwoBit Forge logo" /> | [**TwoBit Forge**](https://github.com/TwoBit-Forge) | Collaborator | [Seed Actions!](https://github.com/TwoBit-Forge/CMSC197-FinalProject) |
+
+---
+
+## Featured Projects
  
 | Project | Description | Stack |
 |---|---|---|
 | 🗓️ [**Horaryo**](https://github.com/FakeThird/horaryo) *(beta)* | Scheduling and time management app focused on usability | Java (Swing GUI) |
-| 📍 [**UPDI Ko**](https://github.com/Adobo-Mappers/UPdiKo) *(in progress)* | Campus-oriented utility built around accessibility and convenience | Supabase, Node.js, React |
+| 📍 [**UPdi Ko!**](https://github.com/Adobo-Mappers/UPdiKo) *(in progress)* | Campus-oriented utility built around accessibility and convenience | Supabase, Node.js, React |
 | 🚆 [**TypeWriter Language**](https://github.com/Tsugumi-Collaborations/cmsc124-typewriter-language) | Custom-made basic programming language for non-programmers | Kotlin |
 | 💣 [**BOMBASM**](https://github.com/CL4-Bisk/BOMBASM) | Low-level project exploring machine-level logic and program behavior | Web Assembly (via C) |
+| ⚔️ [**Seed Actions!**](https://github.com/TwoBit-Forge/CMSC197-FinalProject) | Turn-based RPG game with multi-level progressions and level-unlocked characters | Godot Engine |
  
 ---
 
