@@ -4,7 +4,7 @@
  
 I build practical software across systems, web, and hardware — from low-level assembly and embedded development to full-stack web applications. I care about clean implementation, maintainable code, and building things that are genuinely useful.
  
-Open to internship opportunities in **IT / Technical Support**, **Software Development**, and **Backend Development**.
+Open to internship opportunities in **IT / Technical Support**, **Fullstack Development**, **Software Development**, and **Backend Development**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CL4-Bisk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aparicio-jc/)
